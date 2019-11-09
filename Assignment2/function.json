@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "myBlob",
+      "type": "blobTrigger",
+      "direction": "in",
+      "path": "azure-webjobs-hosts/dataaverage/0_db547040cca940daad7f7c27521e73fc_1.json",
+      "connection": "iotlaptopiris8217_STORAGE"
+    }
+  ],
+  "disabled": false
+}
